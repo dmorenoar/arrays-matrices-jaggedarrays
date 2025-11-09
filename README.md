@@ -1,4 +1,4 @@
-# 🔢 Tipos de estructuras de datos en C#
+# 🔢 Tipos de estructuras de datos en C# (Arrays, Matrices, Jagged Arrays)
 
 ## 📚 Tipos de Arrays
 
